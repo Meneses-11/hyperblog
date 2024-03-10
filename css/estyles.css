@@ -25,6 +25,9 @@ body{
     font-weight: normal;
     font-size: 0.8em;
 }
+#post #paisaje{
+    width: 100%;
+}
 
 #container{
     width: 70%;
