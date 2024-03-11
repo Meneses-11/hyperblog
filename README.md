@@ -8,5 +8,6 @@ Espero que después de haber terminado el curso haya adquirido los conocimientos
 
 Creado por Adrian Meneses
 Aprendiendo a aprender
+>Team Checo Perez SIUUUUU
 
 ***Que tengas lindo día***
